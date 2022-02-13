@@ -1,3 +1,6 @@
 [submodule "sqlcipher"]
 	path = sqlcipher
 	url = https://github.com/wz2cool/sqlcipher.git
+[submodule "openssl"]
+	path = openssl
+	url = https://github.com/openssl/openssl.git
